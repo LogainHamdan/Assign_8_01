@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   void initState() {
-    load('assets/note3.wav');
+    load('assets/Guitars.wav');
     super.initState();
   }
 
